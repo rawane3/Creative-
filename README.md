@@ -50,8 +50,9 @@
   <p>Hello beautiful people 🌷</p>
 
   <div class="gallery">
-    <img src="images/1831.jpg" alt="Art gallery">
-    <img src="images/1830.jpg" alt="Cute cat">
+    
+    <img src="./cute cat.jpeg" />
+    <img src="./art gallery.jpeg" />
   </div>
 
   <h2>My playlist 🎧</h2>
