@@ -54,7 +54,7 @@
   <p>Hello beautiful people 🌷</p>
   
   <img src="https://pin.it/2zY3tmLA3" alt="Pinterest inspiration" width="300" height="200">
-  <img src="https://pin.it/3jNG8uTmS" alt="Pinterestinspiration" width="300" height="200">
+  <img src="https://pin.it/3jNG8uTmS" alt="Pinterest inspiration" width="300" height="200">
 
 
 
@@ -80,7 +80,7 @@
   </div>
 
   <div class="hobby">
-    <img src="https://pin.it/3EWVsuOjg" alt="Pinterestinspiration" width="300" height="200">
+    <img src="https://pin.it/3EWVsuOjg" alt="Pinterest inspiration" width="300" height="200">
     <p>Tennis 🎾</p>
   </div>
 
