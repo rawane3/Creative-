@@ -30,6 +30,21 @@
       border-radius: 15px;
     }
 
+    .pinterest-section {
+      margin: 30px auto;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    .pinterest-section img {
+      width: 300px;
+      height: 200px;
+      border-radius: 15px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
     .playlist {
       margin: 30px auto;
       max-width: 600px;
@@ -49,8 +64,10 @@
 
   <p>Hello beautiful people 🌷</p>
 
-  <img src="https://pin.it/7zfS7i187-or-path" alt="Pinterest logo" width="300" height="200">
-  <img src="https://pin.it/4WbLli5ba-or-path" alt="Pinterest logo" width="300" height="200">
+  <h2>Pinterest Inspiration 📌</h2>
+  <div class="pinterest-section">
+    <img src="https://pin.it/7zfS7i187-or-path" alt="Pinterest inspiration" width="300" height="200">
+    <img src="https://pin.it/4WbLli5ba-or-path" alt="Pinterest inspiration" width="300" height="200">
   </div>
 
   <h2>My playlist 🎧</h2>
