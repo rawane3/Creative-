@@ -80,7 +80,7 @@
   </div>
 
   <div class="hobby">
-    <img src="images/tennis.jpg" alt="Tennis">
+    <img src="https://pin.it/3EWVsuOjg" alt="Pinterestinspiration" width="300" height="200">
     <p>Tennis 🎾</p>
   </div>
 
