@@ -53,9 +53,8 @@
 
   <p>Hello beautiful people 🌷</p>
   
-    <img src="https://pin.it/7zfS7i187-or-path" alt="Pinterest inspiration" width="300" height="200">
-    <img src="https://pin.it/4WbLli5ba-or-path" alt="Pinterest inspiration" width="300" height="200">
-  
+  <img src="image-url-or-path" alt="Pinterest inspiration" width="300" height="200">
+
 
 
   <h2>My playlist 🎧</h2>
