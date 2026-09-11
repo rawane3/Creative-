@@ -85,7 +85,7 @@
   </div>
 
   <div class="hobby">
-    <img src="images/crocheting.jpg" alt="Crocheting">
+    <img src="https://pin.it/5MKJFRsh5" alt="Pinterest inspiration" width="300" height="200">
     <p>Crocheting 🧶</p>
   </div>
 
