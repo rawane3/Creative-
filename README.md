@@ -90,8 +90,8 @@
   </div>
 
   <div class="hobby">
-    <img src="images/reading.jpg" alt="Reading">
-    <p>Reading 📚</p>
+  <img src="https://pin.it/5MsQm7Gj9" alt="Pinterest inspiration" width="300" height="200">  
+   <p>Reading 📚</p>
   </div>
 
   <div class="hobby">
