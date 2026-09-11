@@ -49,10 +49,7 @@
 
   <p>Hello beautiful people 🌷</p>
 
-  <div class="gallery">
-    
-    <img src="./cute cat.jpeg" />
-    <img src="./art gallery.jpeg" />
+  <img src="https://pin.it/7zfS7i187-or-path" alt="Pinterest logo" width="300" height="200">
   </div>
 
   <h2>My playlist 🎧</h2>
