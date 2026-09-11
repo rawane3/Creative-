@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 
 <head>
@@ -53,7 +53,8 @@
 
   <p>Hello beautiful people 🌷</p>
   
-  <img src="image-url-or-path" alt="Pinterest inspiration" width="300" height="200">
+  <img src="https://pin.it/2zY3tmLA3" alt="Pinterest inspiration" width="300" height="200">
+  <img src="https://pin.it/3jNG8uTmS" alt="Pinterestinspiration" width="300" height="200">
 
 
 
