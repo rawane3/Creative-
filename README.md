@@ -75,7 +75,7 @@
 <div class="hobbies">
 
   <div class="hobby">
-    <img src="images/horse.jpg" alt="Riding horses">
+    <img src="https://pin.it/6a7O10ino-or-path" alt="Pinterest inspiration" width="300" height="200">
     <p>Riding horses 🐎</p>
   </div>
 
