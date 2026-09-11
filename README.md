@@ -24,18 +24,7 @@
       color: #806575;
     }
 
-    .gallery img {
-      width: 200px;
-      margin: 10px;
-      border-radius: 15px;
-    }
-
-    .pinterest-section {
-      margin: 30px auto;
-      display: flex;
-      justify-content: center;
-      gap: 20px;
-      flex-wrap: wrap;
+  
     }
 
     .pinterest-section img {
