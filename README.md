@@ -63,12 +63,11 @@
   <h2>Introduction</h2>
 
   <p>Hello beautiful people 🌷</p>
-
-  <h2>Pinterest Inspiration 📌</h2>
-  <div class="pinterest-section">
+  
     <img src="https://pin.it/7zfS7i187-or-path" alt="Pinterest inspiration" width="300" height="200">
     <img src="https://pin.it/4WbLli5ba-or-path" alt="Pinterest inspiration" width="300" height="200">
-  </div>
+  
+
 
   <h2>My playlist 🎧</h2>
 
