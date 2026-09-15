@@ -46,18 +46,7 @@
   <img src="https://pin.it/2zY3tmLA3" alt="Pinterest inspiration" width="800" height="600">
   <img src="https://pin.it/3jNG8uTmS" alt="Pinterest inspiration" width="800" height="600">
 
-
-
-  <h2>My playlist 🎧</h2>
-  
-    <iframe
-      src="https://open.spotify.com/embed/playlist/4pGb1rW1oSNSbkXTqSWChE"
-      width="100%"
-      height="352"
-      frameborder="0"
-      allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-      loading="lazy">
-    </iframe>
+<p> Hi,  my name is Rawane ,I am 14 years old , I am an ambitious and a big dreamer, hardworking teen who wants to do everything✨️. </p>
   
 </body>
 
