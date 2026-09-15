@@ -74,20 +74,20 @@
 
 <div class="hobbies">
 
-  <div class="hobby">
+  
     <img src="https://pin.it/6a7O10ino-or-path" alt="Pinterest inspiration" width="300" height="200">
     <p>Riding horses 🐎</p>
-  </div>
+  
 
-  <div class="hobby">
+ 
     <img src="https://pin.it/3EWVsuOjg" alt="Pinterest inspiration" width="300" height="200">
     <p>Tennis 🎾</p>
-  </div>
+  
 
-  <div class="hobby">
+
     <img src="https://pin.it/5MKJFRsh5" alt="Pinterest inspiration" width="300" height="200">
     <p>Crocheting 🧶</p>
-  </div>
+  
 
   <div class="hobby">
   <img src="https://pin.it/5MsQm7Gj9" alt="Pinterest inspiration" width="300" height="200">  
