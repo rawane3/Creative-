@@ -22,17 +22,7 @@
 
     p {
       color: #806575;
-    }
-
-  
-    }
-
-    .pinterest-section img {
-      width: 300px;
-      height: 200px;
-      border-radius: 15px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
+    { 
 
     .playlist {
       margin: 30px auto;
