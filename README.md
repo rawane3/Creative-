@@ -94,10 +94,10 @@
    <p>Reading 📚</p>
   </div>
 
-  <div class="hobby">
-    <img src="images/coloring.jpg" alt="Coloring">
+  
+    <img src="https://pin.it/1rb8a8BWQ" alt="Pinterestinspiration" width="300" height="200">
     <p>Coloring 🖍️</p>
-  </div>
+  
 
   <div class="hobby">
     <img src="images/chess.jpg" alt="Chess">
