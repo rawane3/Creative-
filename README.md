@@ -46,7 +46,8 @@
   <img src="https://pin.it/2zY3tmLA3" alt="Pinterest inspiration" width="800" height="600">
   <img src="https://pin.it/3jNG8uTmS" alt="Pinterest inspiration" width="800" height="600">
 
-<p> Hi,  my name is Rawane ,I am 14 years old , I am an ambitious and a big dreamer, hardworking teen who wants to do everything✨️. </p>
+<p> Hi,  my name is Rawane ,I am 14 years old , I am an ambitious and a big dreamer, hardworking teen who wants to do everything✨️.
+ I don’t really have a specific music taste. I like a bit of everything 🎶. </p>
   
 </body>
 
