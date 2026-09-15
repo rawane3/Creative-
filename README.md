@@ -27,7 +27,7 @@
   
     }
 
-    .pinterest-section img {
+     hobbies img {
       width: 300px;
       height: 200px;
       border-radius: 15px;
@@ -75,59 +75,56 @@
 <div class="hobbies">
 
   
-    <img src="https://pin.it/6a7O10ino-or-path" alt="Pinterest inspiration" width="300" height="200">
+    <img src="https://pin.it/6a7O10ino-or-path" alt="inspiration" width="300" height="200">
     <p>Riding horses 🐎</p>
   
 
  
-    <img src="https://pin.it/3EWVsuOjg" alt="Pinterest inspiration" width="300" height="200">
+    <img src="https://pin.it/3EWVsuOjg" alt="inspiration" width="300" height="200">
     <p>Tennis 🎾</p>
   
 
 
-    <img src="https://pin.it/5MKJFRsh5" alt="Pinterest inspiration" width="300" height="200">
+    <img src="https://pin.it/5MKJFRsh5" alt="inspiration" width="300" height="200">
     <p>Crocheting 🧶</p>
   
 
-  <div class="hobby">
-  <img src="https://pin.it/5MsQm7Gj9" alt="Pinterest inspiration" width="300" height="200">  
+  
+  <img src="https://pin.it/5MsQm7Gj9" alt="inspiration" width="300" height="200">  
    <p>Reading 📚</p>
-  </div>
+  
 
   
-    <img src="https://pin.it/1rb8a8BWQ" alt="Pinterestinspiration" width="300" height="200">
+    <img src="https://pin.it/1rb8a8BWQ" alt="inspiration" width="300" height="200">
     <p>Coloring 🖍️</p>
   
 
-  <div class="hobby">
-    <img src="images/chess.jpg" alt="Chess">
+  
+    <img src="https://pin.it/7GlAyDGVl" alt="inspiration" width="300" height="200">
     <p>Chess ♟️</p>
-  </div>
 
-  <div class="hobby">
-    <img src="images/sudoku.jpg" alt="Sudoku">
+
+
+    <img src="https://pin.it/4dLWIAuWT" alt="inspiration" width="300" height="200">
     <p>Sudoku ✒️</p>
-  </div>
+    
 
-  <div class="hobby">
-    <img src="images/baking.jpg" alt="Baking">
-    <p>Baking 🍰</p>
-  </div>
+  
+    <img src="https://pin.it/40eNIKHtb" alt="inspiration" width="300" height="200">
+    <p>Baking
+   
+  
 
-  <div class="hobby">
-    <img src="images/photography.jpg" alt="Photography">
-    <p>Photography 📸</p>
-  </div>
-
-  <div class="hobby">
-    <img src="images/acting.jpg" alt="Acting">
+  
+    <img src="https://pin.it/XoGr03Rx1" alt="inspiration" width="300" height="200">
+ 
     <p>Acting 🎭</p>
-  </div>
+  
 
-  <div class="hobby">
-    <img src="images/painting.jpg" alt="Painting">
-    <p>Painting 🎨</p>
-  </div>
+  
+    <img src="https://pin.it/7tR6vXIX2" alt="inspiration" width="300" height="200">
+    <p>Painti🎨</p>
+  
 
 </div>
 </body>
