@@ -59,8 +59,7 @@
 
 
   <h2>My playlist 🎧</h2>
-
-  <div class="playlist">
+  
     <iframe
       src="https://open.spotify.com/embed/playlist/4pGb1rW1oSNSbkXTqSWChE"
       width="100%"
@@ -69,67 +68,7 @@
       allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
       loading="lazy">
     </iframe>
-  </div>
-<h2>My hobbies 🌕🌙</h2>
-
-<div class="hobbies">
-
   
-    <img src="https://pin.it/6a7O10ino-or-path" alt="Pinterest inspiration" width="300" height="200">
-    <p>Riding horses 🐎</p>
-  
-
- 
-    <img src="https://pin.it/3EWVsuOjg" alt="Pinterest inspiration" width="300" height="200">
-    <p>Tennis 🎾</p>
-  
-
-
-    <img src="https://pin.it/5MKJFRsh5" alt="Pinterest inspiration" width="300" height="200">
-    <p>Crocheting 🧶</p>
-  
-
-  <div class="hobby">
-  <img src="https://pin.it/5MsQm7Gj9" alt="Pinterest inspiration" width="300" height="200">  
-   <p>Reading 📚</p>
-  </div>
-
-  
-    <img src="https://pin.it/1rb8a8BWQ" alt="Pinterestinspiration" width="300" height="200">
-    <p>Coloring 🖍️</p>
-  
-
-  <div class="hobby">
-    <img src="images/chess.jpg" alt="Chess">
-    <p>Chess ♟️</p>
-  </div>
-
-  <div class="hobby">
-    <img src="images/sudoku.jpg" alt="Sudoku">
-    <p>Sudoku ✒️</p>
-  </div>
-
-  <div class="hobby">
-    <img src="images/baking.jpg" alt="Baking">
-    <p>Baking 🍰</p>
-  </div>
-
-  <div class="hobby">
-    <img src="images/photography.jpg" alt="Photography">
-    <p>Photography 📸</p>
-  </div>
-
-  <div class="hobby">
-    <img src="images/acting.jpg" alt="Acting">
-    <p>Acting 🎭</p>
-  </div>
-
-  <div class="hobby">
-    <img src="images/painting.jpg" alt="Painting">
-    <p>Painting 🎨</p>
-  </div>
-
-</div>
 </body>
 
 </html>
